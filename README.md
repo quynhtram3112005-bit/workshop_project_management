@@ -55,7 +55,7 @@ Dự án được lập kế hoạch, vận hành và kiểm soát toàn diện 
 Trong quá trình triển khai thực tế, dự án gặp phải những biến động lớn yêu cầu kỹ năng giải quyết vấn đề và quản trị thay đổi (Change Management):
 * **Quản trị rủi ro & Nén tiến độ (Schedule Compression):** Điều chỉnh lịch trình tổ chức từ **3 ngày xuống 2 ngày** do biến động vận hành.Ban quản trị dự án đã áp dụng kỹ thuật **Nén tiến độ (Crashing/Fast-tracking)** kết hợp đánh giá năng lực đáp ứng của nguồn lực để đảm bảo dự án về đích đúng hạn mà không làm giảm chất lượng sự kiện
 * **Theo Dõi Độ Lệch Baseline (Variance Tracking):** Sử dụng `Tracking Gantt` và `Task Usage` trên phần mềm quản lý để cập nhật định kỳ tình hình sử dụng thực tế (Actual Schedule, Actual Work, Actual Cost) so với kế hoạch cơ sở nhằm kiểm soát chặt chẽ Cost Variance
-  <img width="416" height="285" alt="Screenshot 2026-06-15 at 12 38 50" src="https://github.com/user-attachments/assets/f74f7f07-9b10-4cdb-9696-80b22c890b0f" />
+<img width="416" height="285" alt="Screenshot 2026-06-15 at 12 38 50" src="https://github.com/user-attachments/assets/f74f7f07-9b10-4cdb-9696-80b22c890b0f" />
 
 ### 4. Kết Thúc & Đóng Dự Án (Project Closing)
 * **Nghiệm thu kết quả (Project Deliverables):** Đánh giá hiệu quả (Effectiveness) dựa trên mức độ hài lòng của các bên liên quan và số lượng người tham gia đạt/vượt kỳ vọng.
@@ -73,9 +73,11 @@ Trong quá trình triển khai thực tế, dự án gặp phải những biến
 ---
 
 ## 📂 Danh Mục Tài Liệu Repository (Artifacts)
-* `01_Project_Reports/NHOM6_BAO_CAO_DU_AN.pdf`: Báo cáo chi tiết bằng văn bản chứa Project Charter, Ma trận phân tích Stakeholder, bảng phân tích rủi ro, và đánh giá hiệu suất
-* `02_Project_Schedules/Project_Schedule_Mangement.mpp`: File MS Project lưu trữ cấu trúc WBS toàn vẹn, phân bổ Resources, sơ đồ Gantt Chart và cấu hình Baseline.
-* `03_Financials_&_Tracking/Project_Financial_Tracking.xlsx`: File Excel quản lý chi tiết dòng tiền, chi phí vật tư, doanh thu gây quỹ và so sánh kế hoạch vs thực tế.
 
+| | |
+| --- | --- |
+| **Báo cáo dự án (PDF)** | [Report](Report.pdf) |
+| **Kế hoạch dự án (MS Project)** | [Planning](Planning.mpp) |
+| **Theo dõi tài chính (Excel)** | [Financial Tracking](Finance.xlsx) |
 ---
 *Dự án được thực hiện dưới sự hướng dẫn chuyên môn của ThS. Phạm Thanh Tâm - Đại học Kinh tế TP. Hồ Chí Minh (UEH).* 
