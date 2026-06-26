@@ -57,6 +57,10 @@ Trong quá trình triển khai thực tế, dự án gặp phải những biến
 * **Quản trị rủi ro & Nén tiến độ (Schedule Compression):** Điều chỉnh lịch trình tổ chức từ **3 ngày xuống 2 ngày** do biến động vận hành.Ban quản trị dự án đã áp dụng kỹ thuật **Nén tiến độ (Crashing/Fast-tracking)** kết hợp đánh giá năng lực đáp ứng của nguồn lực để đảm bảo dự án về đích đúng hạn mà không làm giảm chất lượng sự kiện
 * **Theo Dõi Độ Lệch Baseline (Variance Tracking):** Sử dụng `Tracking Gantt` và `Task Usage` trên phần mềm quản lý để cập nhật định kỳ tình hình sử dụng thực tế (Actual Schedule, Actual Work, Actual Cost) so với kế hoạch cơ sở nhằm kiểm soát chặt chẽ Cost Variance
 <img width="416" height="285" alt="Screenshot 2026-06-15 at 12 38 50" src="https://github.com/user-attachments/assets/f74f7f07-9b10-4cdb-9696-80b22c890b0f" />
+<img width="405" height="347" alt="Screenshot 2026-06-26 at 17 16 01" src="https://github.com/user-attachments/assets/1f517e24-afc0-48b8-b211-ccd5c80cbde1" />
+<img width="409" height="318" alt="Screenshot 2026-06-26 at 17 16 41" src="https://github.com/user-attachments/assets/36b954d0-f05b-4951-a906-df4ecbe58776" />
+
+
 
 ### 4. Kết Thúc & Đóng Dự Án (Project Closing)
 * **Nghiệm thu kết quả (Project Deliverables):** Đánh giá hiệu quả (Effectiveness) dựa trên mức độ hài lòng của các bên liên quan và số lượng người tham gia đạt/vượt kỳ vọng.
