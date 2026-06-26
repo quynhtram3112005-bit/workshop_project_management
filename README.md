@@ -32,6 +32,7 @@ Dự án được lập kế hoạch, vận hành và kiểm soát toàn diện 
 
 * **Phân Tích Các Bên Liên Quan (Stakeholder Management):**
     * Phân loại các nhóm Stakeholders thông qua **Power/Interest Grid** để đưa ra chiến lược giao tiếp (Communication Strategy) phù hợp.
+      
       <img width="435" height="523" alt="Screenshot 2026-06-15 at 12 19 50" src="https://github.com/user-attachments/assets/adbac86b-1030-44e1-8595-fb2715118b21" />
       <img width="405" height="292" alt="Screenshot 2026-06-15 at 12 21 13" src="https://github.com/user-attachments/assets/bd07cdd9-9df0-4afa-8097-d5672ca8e14d" />
 
